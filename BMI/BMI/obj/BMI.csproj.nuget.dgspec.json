@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roro0\\OneDrive\\デスクトップ\\新しいフォルダー (2)\\BMI\\BMI\\BMI.csproj": {}
+    "D:\\git\\BMI\\BMI\\BMI\\BMI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roro0\\OneDrive\\デスクトップ\\新しいフォルダー (2)\\BMI\\BMI\\BMI.csproj": {
+    "D:\\git\\BMI\\BMI\\BMI\\BMI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roro0\\OneDrive\\デスクトップ\\新しいフォルダー (2)\\BMI\\BMI\\BMI.csproj",
+        "projectUniqueName": "D:\\git\\BMI\\BMI\\BMI\\BMI.csproj",
         "projectName": "BMI",
-        "projectPath": "C:\\Users\\roro0\\OneDrive\\デスクトップ\\新しいフォルダー (2)\\BMI\\BMI\\BMI.csproj",
+        "projectPath": "D:\\git\\BMI\\BMI\\BMI\\BMI.csproj",
         "packagesPath": "C:\\Users\\roro0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roro0\\OneDrive\\デスクトップ\\新しいフォルダー (2)\\BMI\\BMI\\obj\\",
+        "outputPath": "D:\\git\\BMI\\BMI\\BMI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
